@@ -1,0 +1,5 @@
+para=str(input("enter the sentence"))
+para=para.replace("a","")
+para=para.replace("an","")
+para=para.replace("the","")
+print(para)
